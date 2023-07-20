@@ -1,0 +1,10 @@
+.reset{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    place-content: center;
+    width: 100vw;
+    align-items: center;
+    gap: 50px;
+    background-color: #e5e5e5;
+}
